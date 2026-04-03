@@ -1,0 +1,534 @@
+[
+  {
+    "code": "246605",
+    "name": "10 YEAR DELIVERABLE IR - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "343603",
+    "name": "10 YEAR ERIS SOFR SWAP - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "343601",
+    "name": "10 YEAR ERIS SWAP  - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "172LM1",
+    "name": "1K SHIB - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "172LM2",
+    "name": "1K SHIB PERP - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "342603",
+    "name": "2 YEAR ERIS SOFR SWAP - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "342601",
+    "name": "2 YEAR ERIS SWAP - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "344606",
+    "name": "3 YEAR ERIS SOFR SWAP - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "597741",
+    "name": "3-MO. EUROYEN TIBOR - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "246606",
+    "name": "5 YEAR DELIVERABLE IR - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "344605",
+    "name": "5 YEAR ERIS SOFR SWAP - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "344601",
+    "name": "5 YEAR ERIS SWAP - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "ZB9105",
+    "name": "5-Year Eris Standard- Initial - ERIS FUTURES EXCHANGE"
+  },
+  {
+    "code": "13874W",
+    "name": "ADJUSTED INT RATE S&P 500 TOTL - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "232741",
+    "name": "AUSTRALIAN DOLLAR - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "171LM1",
+    "name": "AVALANCHE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "171LM2",
+    "name": "AVALANCHE PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "221602",
+    "name": "BBG COMMODITY - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "133741",
+    "name": "BITCOIN - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "133LM5",
+    "name": "BITCOIN CASH PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "1330E1",
+    "name": "BITCOIN-USD - CBOE FUTURES EXCHANGE"
+  },
+  {
+    "code": "102741",
+    "name": "BRAZILIAN REAL - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "096742",
+    "name": "BRITISH POUND - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "090741",
+    "name": "CANADIAN DOLLAR - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "174LM1",
+    "name": "CARDONA - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "174LM2",
+    "name": "CARDONA PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "170LM1",
+    "name": "CHAINLINK - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "170LM2",
+    "name": "CHAINLINK PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "12460+",
+    "name": "DJIA Consolidated - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "124603",
+    "name": "DJIA x $5 - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "168DC1",
+    "name": "DOGECOIN - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "168LM2",
+    "name": "DOGECOIN PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "124601",
+    "name": "DOW JONES INDUSTRIAL AVERAGE - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "124606",
+    "name": "DOW JONES U.S. REAL ESTATE IDX - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "045L2T",
+    "name": "DTCC Repo-US Treasury <30 YR - NYSE LIFFE - NYPC"
+  },
+  {
+    "code": "244741",
+    "name": "E-MINI MSCI EAFE - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "244742",
+    "name": "E-MINI MSCI EMERGING MARKETS - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "33874A",
+    "name": "E-MINI S&P 400 STOCK INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874A",
+    "name": "E-MINI S&P 500 - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874P",
+    "name": "E-MINI S&P COMMUNICATION INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "138748",
+    "name": "E-MINI S&P CONSU STAPLES INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "138747",
+    "name": "E-MINI S&P CONSUMER DISC INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "138749",
+    "name": "E-MINI S&P ENERGY INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874C",
+    "name": "E-MINI S&P FINANCIAL INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874E",
+    "name": "E-MINI S&P HEALTH CARE INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874F",
+    "name": "E-MINI S&P INDUSTRIAL INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874H",
+    "name": "E-MINI S&P MATERIALS INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874R",
+    "name": "E-MINI S&P REAL ESTATE INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874I",
+    "name": "E-MINI S&P TECHNOLOGY INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874J",
+    "name": "E-MINI S&P UTILITIES INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "239745",
+    "name": "EMINI RUSSELL 1000 GROWTH - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "239744",
+    "name": "EMINI RUSSELL 1000 VALUE INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "146021",
+    "name": "ETHER CASH SETTLED - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "099741",
+    "name": "EURO FX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "599661",
+    "name": "EURO FX/BRITISH POUND - SMALL - ICE FUTURES U.S."
+  },
+  {
+    "code": "299741",
+    "name": "EURO FX/BRITISH POUND XRATE - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "299661",
+    "name": "EURO FX/JAPANESE YEN - SMALL - ICE FUTURES U.S."
+  },
+  {
+    "code": "399741",
+    "name": "EURO FX/JAPANESE YEN XRATE - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "047745",
+    "name": "EURO SHORT TERM RATE - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "132741",
+    "name": "EURODOLLARS-3M - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "045601",
+    "name": "FED FUNDS - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "180LM1",
+    "name": "HEDERA - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "180LM4",
+    "name": "HEDERA PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "246602",
+    "name": "INTEREST RATE SWAPS 10YR - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "247602",
+    "name": "INTEREST RATE SWAPS 5YR - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "097741",
+    "name": "JAPANESE YEN - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "167LM0",
+    "name": "LITECOIN CASH - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "167LM1",
+    "name": "LITECOIN PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "095741",
+    "name": "MEXICAN PESO - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "04360Y",
+    "name": "MICRO 10 YEAR YIELD - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "133742",
+    "name": "MICRO BITCOIN - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "124608",
+    "name": "MICRO E-MINI DJIA (x$0.5) - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "209747",
+    "name": "MICRO E-MINI NASDAQ-100 INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "239747",
+    "name": "MICRO E-MINI RUSSELL 2000 INDX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874U",
+    "name": "MICRO E-MINI S&P 500 INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "146022",
+    "name": "MICRO ETHER  - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "177742",
+    "name": "MICRO SOL - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "176741",
+    "name": "MICRO XRP - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "24477M",
+    "name": "MINI MSCI ACWI NTR INDEX  - ICE FUTURES U.S."
+  },
+  {
+    "code": "244041",
+    "name": "MSCI EAFE  - ICE FUTURES U.S."
+  },
+  {
+    "code": "24477G",
+    "name": "MSCI EM ASIA MINI NTR INDEX - ICE FUTURES U.S."
+  },
+  {
+    "code": "244042",
+    "name": "MSCI EM INDEX - ICE FUTURES U.S."
+  },
+  {
+    "code": "133LM4",
+    "name": "NANO BITCOIN PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "146LM1",
+    "name": "NANO ETHER - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "146LM3",
+    "name": "NANO ETHER PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "177LM1",
+    "name": "NANO SOLANA - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "177LM3",
+    "name": "NANO SOLANA PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "173LM1",
+    "name": "NANO STELLAR - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "176LM1",
+    "name": "NANO XRP - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "176LM3",
+    "name": "NANO XRP PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "209742",
+    "name": "NASDAQ MINI - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "20974+",
+    "name": "NASDAQ-100 Consolidated - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "209741",
+    "name": "NASDAQ-100 STOCK INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "240741",
+    "name": "NIKKEI STOCK AVERAGE - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "240743",
+    "name": "NIKKEI STOCK AVERAGE YEN DENOM - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "112741",
+    "name": "NZ DOLLAR - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "133LM1",
+    "name": "Nano Bitcoin  - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "032741",
+    "name": "ONE-MONTH EURODOLLAR - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "169LM1",
+    "name": "POLKADOT - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "169LM2",
+    "name": "POLKADOT PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "239772",
+    "name": "RUSSEL 1000 MINI INDEX FUTURE - ICE FUTURES U.S."
+  },
+  {
+    "code": "23977C",
+    "name": "RUSSELL 1000 VALUE INDEX MINI - ICE FUTURES U.S."
+  },
+  {
+    "code": "239750",
+    "name": "RUSSELL 2000 ANNUAL DIVIDEND  - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "23977A",
+    "name": "RUSSELL 2000 MINI INDEX FUTURE - ICE FUTURES U.S."
+  },
+  {
+    "code": "239742",
+    "name": "RUSSELL E-MINI - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "089741",
+    "name": "RUSSIAN RUBLE - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "239777",
+    "name": "Russell 2000 Stock Index - ICE Futures U.S."
+  },
+  {
+    "code": "239741",
+    "name": "Russell 2000 Stock Index Future - Chicago Mercantile Exchange"
+  },
+  {
+    "code": "338741",
+    "name": "S&P 400 MIDCAP STOCK INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "43874A",
+    "name": "S&P 500 ANNUAL DIVIDEND INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874+",
+    "name": "S&P 500 Consolidated - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "43874Q",
+    "name": "S&P 500 QUARTERLY DIVIDEND IND - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "138741",
+    "name": "S&P 500 STOCK INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "13874N",
+    "name": "S&P 500 TOTAL RETURN INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "256741",
+    "name": "S&P GSCI COMMODITY INDEX - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "122741",
+    "name": "SO AFRICAN RAND - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "134742",
+    "name": "SOFR-1M - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "134741",
+    "name": "SOFR-3M - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "177741",
+    "name": "SOL - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "180LM3",
+    "name": "SUI PERP STYLE - COINBASE DERIVATIVES, LLC"
+  },
+  {
+    "code": "092741",
+    "name": "SWISS FRANC - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "157741",
+    "name": "THREE-MONTH BLOOMBERG  ST BANK - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "043607",
+    "name": "ULTRA UST 10Y - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "020604",
+    "name": "ULTRA UST BOND - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "098662",
+    "name": "USD INDEX - ICE FUTURES U.S."
+  },
+  {
+    "code": "082744",
+    "name": "USD/CHINESE RENMINBI-OFFSHORE  - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "043602",
+    "name": "UST 10Y NOTE - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "042601",
+    "name": "UST 2Y NOTE - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "044601",
+    "name": "UST 5Y NOTE - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "020601",
+    "name": "UST BOND - CHICAGO BOARD OF TRADE"
+  },
+  {
+    "code": "1170E1",
+    "name": "VIX FUTURES - CBOE FUTURES EXCHANGE"
+  },
+  {
+    "code": "176740",
+    "name": "XRP - CHICAGO MERCANTILE EXCHANGE"
+  },
+  {
+    "code": "180LMB",
+    "name": "ZCASH PERP STYLE - COINBASE DERIVATIVES, LLC"
+  }
+]

@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>COT Dashboard · CFTC Financial Futures</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <!-- HEADER -->
+  <header id="header">
+    <div class="header-left">
+      <div class="logo">CT</div>
+      <div class="header-titles">
+        <div class="header-title">COT Dashboard</div>
+        <div class="header-sub">Commitment of Traders · CFTC Weekly Report</div>
+      </div>
+      <div class="header-meta" id="header-meta"></div>
+    </div>
+    <div class="category-pills" id="category-pills"></div>
+  </header>
+
+  <div class="layout">
+    <!-- SIDEBAR -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-search">
+        <input type="search" id="search" placeholder="Search…" autocomplete="off" spellcheck="false" />
+      </div>
+      <div class="instrument-list" id="instrument-list">
+        <div class="sidebar-loading">Loading…</div>
+      </div>
+    </aside>
+
+    <!-- MAIN -->
+    <main class="main" id="main">
+      <div class="placeholder" id="placeholder">Select an instrument from the list.</div>
+
+      <div class="view hidden" id="view">
+        <!-- Instrument heading -->
+        <div class="inst-heading">
+          <span class="inst-symbol" id="inst-symbol"></span>
+          <span class="inst-name" id="inst-name"></span>
+          <span class="inst-badge" id="inst-badge"></span>
+        </div>
+
+        <!-- Controls: timeframe + chart/table toggle -->
+        <div class="controls">
+          <div class="tf-group" id="tf-group">
+            <button class="tf-btn" data-weeks="13">13W</button>
+            <button class="tf-btn" data-weeks="26">26W</button>
+            <button class="tf-btn active" data-weeks="52">52W</button>
+            <button class="tf-btn" data-weeks="0">All</button>
+          </div>
+          <div class="spacer"></div>
+          <div class="view-toggle">
+            <button class="view-btn active" data-view="chart">Chart</button>
+            <button class="view-btn" data-view="table">Table</button>
+          </div>
+        </div>
+
+        <!-- Stat cards -->
+        <div class="stat-cards" id="stat-cards"></div>
+
+        <!-- Position breakdown -->
+        <div class="card" id="breakdown-card">
+          <div class="card-title">Position Breakdown</div>
+          <div id="breakdown-bars"></div>
+        </div>
+
+        <!-- Chart / Table views -->
+        <div id="chart-view">
+          <div class="card" id="chart-lev">
+            <div id="chart-lev-inner"></div>
+          </div>
+          <div class="card" id="chart-dealer">
+            <div id="chart-dealer-inner"></div>
+          </div>
+          <div class="card" id="chart-am">
+            <div id="chart-am-inner"></div>
+          </div>
+          <div class="card" id="chart-oi">
+            <div id="chart-oi-inner"></div>
+          </div>
+        </div>
+
+        <div id="table-view" class="hidden">
+          <div class="card">
+            <div class="table-wrap" id="table-wrap"></div>
+          </div>
+        </div>
+
+        <div class="footer-note">
+          Data published weekly by the CFTC every Friday at 3:30 PM ET, reflecting positions as of the prior Tuesday.
+          Lev Money = Leveraged funds / speculators. Dealer = Dealer intermediaries / hedgers. Asset Mgr = Institutional asset managers.
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
