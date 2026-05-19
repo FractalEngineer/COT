@@ -168,7 +168,7 @@ def parse_zip(data: bytes) -> pd.DataFrame:
 
     # Normalise report_date to YYYY-MM-DD
     if "report_date" in raw.columns:
-        raw["report_date"] = pd.to_datetime(raw["report_date"], infer_datetime_format=True).dt.strftime("%Y-%m-%d")
+        raw["report_date"] = pd.to_datetime(raw["report_date"]).dt.strftime("%Y-%m-%d")
 
     # Numeric coercion
     for col in INT_COLS:

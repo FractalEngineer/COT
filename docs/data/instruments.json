@@ -65,6 +65,11 @@
     "category": "Other"
   },
   {
+    "code": "344607",
+    "name": "7 YEAR ERIS SOFR SWAP - CHICAGO BOARD OF TRADE",
+    "category": "Interest Rates"
+  },
+  {
     "code": "13874W",
     "name": "ADJUSTED INT RATE S&P 500 TOTL - CHICAGO MERCANTILE EXCHANGE",
     "category": "Equity Index"
@@ -103,6 +108,16 @@
     "code": "1330E1",
     "name": "BITCOIN-USD - CBOE FUTURES EXCHANGE",
     "category": "Crypto"
+  },
+  {
+    "code": "221605",
+    "name": "BLOOMBERG HY CREDIT FUTURES - CHICAGO BOARD OF TRADE",
+    "category": "Other"
+  },
+  {
+    "code": "221606",
+    "name": "BLOOMBERG IG CREDIT FUTURES - CHICAGO BOARD OF TRADE",
+    "category": "Other"
   },
   {
     "code": "102741",
@@ -485,6 +500,11 @@
     "category": "Crypto"
   },
   {
+    "code": "180LM8",
+    "name": "ONDO PERP STYLE - COINBASE DERIVATIVES, LLC",
+    "category": "Other"
+  },
+  {
     "code": "032741",
     "name": "ONE-MONTH EURODOLLAR - CHICAGO MERCANTILE EXCHANGE",
     "category": "Interest Rates"
@@ -592,6 +612,11 @@
   {
     "code": "177741",
     "name": "SOL - CHICAGO MERCANTILE EXCHANGE",
+    "category": "Other"
+  },
+  {
+    "code": "173LM2",
+    "name": "STELLAR PERP STYLE - COINBASE DERIVATIVES, LLC",
     "category": "Other"
   },
   {
