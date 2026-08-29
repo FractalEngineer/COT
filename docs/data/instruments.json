@@ -635,6 +635,11 @@
     "category": "Interest Rates"
   },
   {
+    "code": "134FM1",
+    "name": "SOFR-3M - FMX FUTURES EXCHANGE",
+    "category": "Interest Rates"
+  },
+  {
     "code": "177741",
     "name": "SOL - CHICAGO MERCANTILE EXCHANGE",
     "category": "Other"
@@ -712,6 +717,11 @@
   {
     "code": "176740",
     "name": "XRP - CHICAGO MERCANTILE EXCHANGE",
+    "category": "Other"
+  },
+  {
+    "code": "176LM2",
+    "name": "XRP - COINBASE DERIVATIVES, LLC",
     "category": "Other"
   },
   {
