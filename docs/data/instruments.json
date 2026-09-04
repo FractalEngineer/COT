@@ -290,6 +290,11 @@
     "category": "Equity Index"
   },
   {
+    "code": "180LM6",
+    "name": "ETHENA PERP STYLE - COINBASE DERIVATIVES, LLC",
+    "category": "Other"
+  },
+  {
     "code": "146021",
     "name": "ETHER CASH SETTLED - CHICAGO MERCANTILE EXCHANGE",
     "category": "Crypto"
