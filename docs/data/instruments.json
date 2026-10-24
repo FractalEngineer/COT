@@ -15,6 +15,11 @@
     "category": "Other"
   },
   {
+    "code": "180LMA",
+    "name": "1K PEPE PERP STYLE - COINBASE DERIVATIVES, LLC",
+    "category": "Other"
+  },
+  {
     "code": "172LM1",
     "name": "1K SHIB - COINBASE DERIVATIVES, LLC",
     "category": "Other"
@@ -668,6 +673,11 @@
     "code": "092741",
     "name": "SWISS FRANC - CHICAGO MERCANTILE EXCHANGE",
     "category": "Currencies"
+  },
+  {
+    "code": "138LM1",
+    "name": "TECH100 INDEX PERP STYLE - COINBASE DERIVATIVES, LLC",
+    "category": "Other"
   },
   {
     "code": "157741",
